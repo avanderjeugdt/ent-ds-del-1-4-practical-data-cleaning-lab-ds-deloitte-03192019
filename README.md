@@ -14,7 +14,7 @@ Remember that this is a "lab", so the first thing you need to do is download the
 * Click on the GitHub link in Learn on the lesson
 * Click on the "Fork" button on GitHub to make your own fork (copy on GitHub)
 * Open a Git Bash terminal window and type `git clone ` followed by the URL of your GitHub repository
-* Type `cd ent-ds-del-1-4-practical-data-cleaning-lab` to "change directory" to the new one you just downloaded from GitHub
+* Type `cd ent-ds-del-1-4-practical-data-cleaning-lab-ds-deloitte-03192019` to "change directory" to the new one you just downloaded from GitHub
 * Type `jupyter notebook` to start that running, and then click on the `index.ipynb` file that shows up in your browser.
 
 ## Changing Types
@@ -60,7 +60,7 @@ The write code to output it as:
 * All upper case
 * All lower case
 * With just the first letter of the first word capitalized
-* With just the first letter of *every* word capitalized (hint: this is new, we haven't shown it to you. Google it - it's called "title case" and remember to include the key word "Python" in your Google search so you don't get the answer for how to do this in Ruby or Java which wouldn't be very helpful)
+* With just the first letter of *every* word capitalized *(hint: this is new, we haven't shown it to you. Google it - it's called "title case" and remember to include the key word "Python" in your Google search so you don't get the answer for how to do this in Ruby or Java which wouldn't be very helpful)*
 
 ## Extra Credit
 
@@ -74,6 +74,8 @@ OK, now we're done with our happy dance, here are a couple of extra problems. As
 ### String Concatenation
 
 In the code cell below, create three variables. `first_name`, `last_name` and `full_name`. Set the first and last names to your first and last names (or those of your favorite movie character) and write code to set the full name and display it based on first and last names. As always, think about capitalization to make sure that irrespective of the case for the first and last names, the full name looks good. 
+
+Bonus challenge? Try to perform a reversal of the full_name so if the name is "Jane Doe", it'd output "eoD enaJ"
 
 ### More Complex Conditionals
 
